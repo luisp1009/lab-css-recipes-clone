@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100vw;
+}
+
+.landing {
+  height: 75vh;
+  background-image: url("../images/apple-pie.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 50px;
+}
+
+.content {
+  width: 80vw;
+  margin: auto;
+}
+
+img {
+  width: 30vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
